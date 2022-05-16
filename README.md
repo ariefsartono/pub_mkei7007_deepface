@@ -3,7 +3,7 @@ Repositori untuk keperluan tugas kelompok ke-2 dari mata kuliah EI7007 Pembelaja
 
 Anggota kelompok 6: Arief Sartono (NIM: 33221018) dan Baud Haryo Prananto (NIM: 33218009).
 
-Folder "..." berisi coding dan laporan tugas terkait tugas meggunakan model Convolutional Neural Network (CNN) untuk persoalan klasifikasi. Dataset yang digunakan adalah CIFAR10.
+Folder "..." berisi coding dan laporan tugas terkait tugas meggunakan model facenet untuk task face recognition. Dataset yang digunakan adalah training dan testing dataset dari isi folder yang telah ditetapkan sesuai kriteria dosen pengampu pada file deskripsi tugas face recognition.
 
 File pdf dengan judul "Laporan Tugas Kelompok 6" berisikan laporan yang menjelaskan secara detil dari model diatas.
 
